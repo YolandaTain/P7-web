@@ -1,0 +1,103 @@
+{
+    "vinilos": [
+        {
+            "id": 1,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/f8/18/53/5445880/1540-1.jpg",
+            "artista": "The Beatles",
+            "album": "Abbey Road",
+            "categoria": "Rock",
+            "precio": 30.99,
+            "stock": true
+          },
+          {
+            "id": 2,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/aa/49/48/4737450/1540-1.jpg",
+            "artista": "Miles Davis",
+            "album": "Kind of Blue",
+            "categoria": "Jazz",
+            "precio": 25.50,
+            "stock": false
+          },
+          {
+            "id": 3,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/6d/92/12/1217133/1540-1/tsp20160818164949/Thriller-Vinilo.jpg",
+            "artista": "Michael Jackson",
+            "album": "Thriller",
+            "categoria": "Pop",
+            "precio": 40.75,
+            "stock": true
+          },
+          {
+            "id": 4,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/0e/d8/0f/1038350/1540-1/tsp20160818181948/Legend-Vinilo.jpg",
+            "artista": "Bob Marley",
+            "album": "Legend",
+            "categoria": "Reggae",
+            "precio": 22.99,
+            "stock": false
+          },
+          {
+            "id": 5,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/53/91/12/1216851/1540-1.jpg",
+            "artista": "John Coltrane",
+            "album": "A Love Supreme",
+            "categoria": "Jazz",
+            "precio": 28.75,
+            "stock": true
+          },
+          {
+            "id": 6,
+            "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/c5/bd/09/638405/1540-6/tsp20160822174932/The-Dark-Side-Of-The-Moon-Vinilo.jpg",
+            "artista": "Pink Floyd",
+            "album": "The Dark Side of the Moon",
+            "categoria": "Rock",
+            "subcategoria": "oferta",
+            "precio": 35.50,
+            "stock": 3
+          }
+    ],
+    "artistas": [
+        {
+            "id": 1,
+            "nombre": "The Beatles",
+            "genero": "Rock",
+            "origen": "Reino Unido",
+            "anios_actividad": "1960-1970"
+        },
+        {
+            "id": 2,
+            "nombre": "Miles Davis",
+            "genero": "Jazz",
+            "origen": "Estados Unidos",
+            "anios_actividad": "1940-1990"
+        },
+        {
+            "id": 3,
+            "nombre": "Michael Jackson",
+            "genero": "Pop",
+            "origen": "Estados Unidos",
+            "anios_actividad": "1975-2009"
+        },
+        {
+            "id": 4,
+            "nombre": "Bob Marley",
+            "genero": "Reggae",
+            "origen": "Jamaica",
+            "anios_actividad": "1962-1981"
+        },
+        {
+            "id": 5,
+            "nombre": "John Coltrane",
+            "genero": "Jazz",
+            "origen": "Estados Unidos",
+            "anios_actividad": "1945-1967"
+        },
+        {
+            "id": 6,
+            "nombre": "Pink Floyd",
+            "genero": "Rock Progresivo",
+            "origen": "Reino Unido",
+            "anios_actividad": "1965-1995"
+        }
+    ]
+}
