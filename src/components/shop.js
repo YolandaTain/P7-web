@@ -1,7 +1,6 @@
 import React from "react";
 import '../assets/css/shop.css';
 import Vinilo from "./vinilo";
-import Artista from "./artista";
 import { useState, useEffect } from 'react';
 
 export default function Shop() {
